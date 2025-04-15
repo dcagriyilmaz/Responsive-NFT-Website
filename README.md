@@ -23,19 +23,9 @@ CSS3
 
 Boxicons
 
-📁 Folder Structure
-pgsql
 
-📁 assets/
-   └── header.png, item-*.png, profile-*.png
-📄 index.html
-📄 style.css
-📦 How to Use
-Clone the repository:
 
-bash
 
-git clone https://github.com/your-username/SellNFT.git
-Open the index.html file in your browser.
+
 
 ⚠️ This is a frontend-only template. No backend or blockchain integration is included.
